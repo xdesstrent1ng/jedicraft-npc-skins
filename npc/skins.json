@@ -1,0 +1,518 @@
+[
+ {
+  "id": "cantina_greedo",
+  "name": "Крупье Греедо",
+  "file": "cantina/cantina_greedo.png",
+  "where": "cantina/cantina.yml → tables.detonators.skin"
+ },
+ {
+  "id": "cantina_twilek_lira",
+  "name": "Твилек Лира",
+  "file": "cantina/cantina_twilek_lira.png",
+  "where": "cantina/cantina.yml → tables.sabacc.skin"
+ },
+ {
+  "id": "cantina_jawa_utini",
+  "name": "Джава Утини",
+  "file": "cantina/cantina_jawa_utini.png",
+  "where": "cantina/cantina.yml → tables.dice.skin"
+ },
+ {
+  "id": "cantina_gamorrean_gurk",
+  "name": "Гамореанец Гурк",
+  "file": "cantina/cantina_gamorrean_gurk.png",
+  "where": "cantina/cantina.yml → tables.duel.skin"
+ },
+ {
+  "id": "cantina_duros_kad",
+  "name": "Дурос Кэд",
+  "file": "cantina/cantina_duros_kad.png",
+  "where": "cantina/cantina.yml → tables.matches.skin"
+ },
+ {
+  "id": "cantina_bothan_botan",
+  "name": "Букмекер Ботан",
+  "file": "cantina/cantina_bothan_botan.png",
+  "where": "cantina/cantina.yml → tables.races.skin"
+ },
+ {
+  "id": "quest_kain_solaris",
+  "name": "Мастер Кайн Соларис",
+  "file": "quest/quest_kain_solaris.png",
+  "where": "dialogs.json «Кайн»; Skins.KAIN; mobs.yml tutorial_jedi"
+ },
+ {
+  "id": "quest_jane",
+  "name": "Джейн (архивист)",
+  "file": "quest/quest_jane.png",
+  "where": "dialogs.json «Джейн»; Skins.JANE"
+ },
+ {
+  "id": "quest_clint",
+  "name": "Клинт (пилот-контрабандист)",
+  "file": "quest/quest_clint.png",
+  "where": "dialogs.json «Клинт»; Skins.CLINT"
+ },
+ {
+  "id": "quest_karas",
+  "name": "Карас (гунган)",
+  "file": "quest/quest_karas.png",
+  "where": "dialogs.json «Карас»; KaminoQuests HEAD_KARAS; mobs.yml karas_personal"
+ },
+ {
+  "id": "quest_buro_baas",
+  "name": "Буро-Баас (вождь гунганов)",
+  "file": "quest/quest_buro_baas.png",
+  "where": "dialogs.json «Буро-Баас»"
+ },
+ {
+  "id": "quest_gungan_elder",
+  "name": "Старейшина гунганов",
+  "file": "quest/quest_gungan_elder.png",
+  "where": "dialogs.json «Старейшина»"
+ },
+ {
+  "id": "quest_gungan_guard",
+  "name": "Страж гунганов",
+  "file": "quest/quest_gungan_guard.png",
+  "where": "dialogs.json «Страж гунганов»"
+ },
+ {
+  "id": "quest_gungan_unknown",
+  "name": "Неизвестный гунган",
+  "file": "quest/quest_gungan_unknown.png",
+  "where": "dialogs.json «Неизвестный гунган»"
+ },
+ {
+  "id": "quest_naboo_patrol_cmd",
+  "name": "Командир патруля (Набу)",
+  "file": "quest/quest_naboo_patrol_cmd.png",
+  "where": "dialogs.json «Командир патруля»"
+ },
+ {
+  "id": "quest_dark_figure",
+  "name": "Тёмная фигура / Дарт Малакарион",
+  "file": "quest/quest_dark_figure.png",
+  "where": "dialogs.json «Тёмная фигура»; Skins.MALAKARION; mobs.yml tutorial_sith, darth_malakarion"
+ },
+ {
+  "id": "quest_spirit_traya",
+  "name": "Дух Дарт Треи",
+  "file": "quest/quest_spirit_traya.png",
+  "where": "dialogs.json «Дух Дарт Треи»"
+ },
+ {
+  "id": "quest_spirit_sion",
+  "name": "Дух Дарта Сиона",
+  "file": "quest/quest_spirit_sion.png",
+  "where": "dialogs.json «Дух Дарта Сиона»"
+ },
+ {
+  "id": "quest_spirit_nihilus",
+  "name": "Дух Дарта Нихилуса",
+  "file": "quest/quest_spirit_nihilus.png",
+  "where": "dialogs.json «Дух Дарта Нихилуса»"
+ },
+ {
+  "id": "quest_barman",
+  "name": "Бармен (Мос-Эйсли)",
+  "file": "quest/quest_barman.png",
+  "where": "QuestDesertSpirit/QuestShadyGuy HEAD_BARMAN; ResellerNpc"
+ },
+ {
+  "id": "quest_bib_fortuna",
+  "name": "Биб Фортуна (тви'лек-мажордом)",
+  "file": "quest/quest_bib_fortuna.png",
+  "where": "Skins.BIB (HEAD_VEX, Quest002 «Биб Фортуна»)"
+ },
+ {
+  "id": "quest_raider_leader",
+  "name": "Главарь рейдеров",
+  "file": "quest/quest_raider_leader.png",
+  "where": "Skins.RAIDER_LEADER (Quest002, HEAD_SKRAB)"
+ },
+ {
+  "id": "quest_camp_guard",
+  "name": "Страж лагеря / рейдер",
+  "file": "quest/quest_camp_guard.png",
+  "where": "Skins.CAMP_GUARD, Skins.RAIDER; mobs.yml reider_*"
+ },
+ {
+  "id": "quest_jawa_leader",
+  "name": "Лидер джав / джава-скупщик",
+  "file": "quest/quest_jawa_leader.png",
+  "where": "Skins.JAWA (HEAD_JAWA, Quest002 «Лидер Джав»); mobs.yml jawa"
+ },
+ {
+  "id": "quest_protocol_droid",
+  "name": "Дроид-переводчик",
+  "file": "quest/quest_protocol_droid.png",
+  "where": "Quest002 «Дроид-переводчик» (HEAD_DROID)"
+ },
+ {
+  "id": "quest_desert_spirit",
+  "name": "Дух Пустыни",
+  "file": "quest/quest_desert_spirit.png",
+  "where": "QuestDesertSpirit HEAD_SPIRIT; QuestKraytHeart «Дух пустыни»"
+ },
+ {
+  "id": "quest_scientist",
+  "name": "Учёный (заброшенный институт)",
+  "file": "quest/quest_scientist.png",
+  "where": "QuestAbandonedInstitute HEAD_SCIENTIST"
+ },
+ {
+  "id": "quest_badbatch_commander",
+  "name": "Командир отряда клонов-изгоев",
+  "file": "quest/quest_badbatch_commander.png",
+  "where": "QuestBadBatch HEAD_COMMANDER; Skins.COMMANDER (Коммандер Дейн)"
+ },
+ {
+  "id": "quest_varra_tess",
+  "name": "Варра Тесс (охотница-мандалорка)",
+  "file": "quest/quest_varra_tess.png",
+  "where": "QuestBountyHunt HEAD_VARRA"
+ },
+ {
+  "id": "quest_tiko_rann",
+  "name": "Тико Ранн (беглый должник)",
+  "file": "quest/quest_tiko_rann.png",
+  "where": "QuestBountyHunt «Тико Ранн»"
+ },
+ {
+  "id": "quest_jawa_informant",
+  "name": "Джава-информатор",
+  "file": "quest/quest_jawa_informant.png",
+  "where": "QuestBountyHunt «Джава-информатор»"
+ },
+ {
+  "id": "quest_z01",
+  "name": "Z-01 (мятежный дроид)",
+  "file": "quest/quest_z01.png",
+  "where": "QuestDroidUprising «Z‑01»"
+ },
+ {
+  "id": "quest_rich_merchant",
+  "name": "Богатый торговец",
+  "file": "quest/quest_rich_merchant.png",
+  "where": "QuestDroidUprising «Богатый торговец» (HEAD_MERCHANT)"
+ },
+ {
+  "id": "quest_vex_orro",
+  "name": "Векс Орро (бывший гонщик)",
+  "file": "quest/quest_vex_orro.png",
+  "where": "QuestKraytHeart HEAD_VEX (сейчас Skins.BIB)"
+ },
+ {
+  "id": "quest_skar_vallo",
+  "name": "Скар Валло (гонщик)",
+  "file": "quest/quest_skar_vallo.png",
+  "where": "QuestKraytHeart HEAD_SKAR / KraytHeartRuntime.SKIN_SKAR"
+ },
+ {
+  "id": "quest_mira_sol",
+  "name": "Мира Сол (караванщица)",
+  "file": "quest/quest_mira_sol.png",
+  "where": "QuestLostCaravan «Мира Сол»"
+ },
+ {
+  "id": "quest_driver_ben",
+  "name": "Погонщик Бен",
+  "file": "quest/quest_driver_ben.png",
+  "where": "QuestLostCaravan «Погонщик Бен» (HEAD_DRIVER)"
+ },
+ {
+  "id": "quest_skrab",
+  "name": "Скраб (главарь банды)",
+  "file": "quest/quest_skrab.png",
+  "where": "QuestLostCaravan «Скраб» (HEAD_SKRAB)"
+ },
+ {
+  "id": "quest_doren_kell",
+  "name": "Дорен Келл (влагодобытчик)",
+  "file": "quest/quest_doren_kell.png",
+  "where": "QuestMoistureFarm «Дорен Келл»"
+ },
+ {
+  "id": "quest_robin",
+  "name": "Робин (тёмный тип)",
+  "file": "quest/quest_robin.png",
+  "where": "QuestShadyGuy «Робин», «Неизвестный»"
+ },
+ {
+  "id": "quest_kitonak_npc",
+  "name": "Китонак (старец)",
+  "file": "quest/quest_kitonak_npc.png",
+  "where": "QuestYoungWarrior «Китонак»; mobs.yml kitonak*"
+ },
+ {
+  "id": "quest_young_tusken",
+  "name": "Молодой таскен",
+  "file": "quest/quest_young_tusken.png",
+  "where": "QuestYoungWarrior «Молодой Таскен»; HEAD_TUSKEN"
+ },
+ {
+  "id": "quest_fortuna_envoy",
+  "name": "Представитель Биба Фортуны",
+  "file": "quest/quest_fortuna_envoy.png",
+  "where": "QuestOldDebts «Представитель Биба Фортуны»"
+ },
+ {
+  "id": "quest_r7x",
+  "name": "R7-X (астромех)",
+  "file": "quest/quest_r7x.png",
+  "where": "GeonosisQuests HEAD_R7"
+ },
+ {
+  "id": "quest_kyurra",
+  "name": "Кьюрра (джеонозийка-старуха)",
+  "file": "quest/quest_kyurra.png",
+  "where": "GeonosisQuests HEAD_KYURRA (geonosian_man.png)"
+ },
+ {
+  "id": "quest_padawan_nira",
+  "name": "Падаван Нира",
+  "file": "quest/quest_padawan_nira.png",
+  "where": "GeonosisQuests HEAD_PADAWAN_1 (QuestDesertSpirit.PRISONER_1)"
+ },
+ {
+  "id": "quest_captive_jedi",
+  "name": "Пленная джедайка",
+  "file": "quest/quest_captive_jedi.png",
+  "where": "GeonosisQuests HEAD_CAPTIVE"
+ },
+ {
+  "id": "quest_morg_kal",
+  "name": "Надзиратель Морг Кал",
+  "file": "quest/quest_morg_kal.png",
+  "where": "GeonosisQuests HEAD_MORG (inquisitors_guard.png)"
+ },
+ {
+  "id": "quest_zzik",
+  "name": "Скупщик Ззик (джеонозиец)",
+  "file": "quest/quest_zzik.png",
+  "where": "GeonosisQuests HEAD_ZZIK (WarriorGeonosis.png)"
+ },
+ {
+  "id": "quest_ton_we",
+  "name": "Тон Ве (каминоанка)",
+  "file": "quest/quest_ton_we.png",
+  "where": "KaminoQuests HEAD_TONWE (сейчас ko_sai.png)"
+ },
+ {
+  "id": "quest_lam_su",
+  "name": "Лам Су (каминоанец-администратор)",
+  "file": "quest/quest_lam_su.png",
+  "where": "KaminoSideQuests HEAD_LAM (сейчас ko_sai.png)"
+ },
+ {
+  "id": "quest_ro_nua",
+  "name": "Ро Нуа (каминоанка-генетик)",
+  "file": "quest/quest_ro_nua.png",
+  "where": "KaminoSideQuests HEAD_RO (сейчас ko_sai.png)"
+ },
+ {
+  "id": "quest_ct99",
+  "name": "КТ-99 (клон-ветеран)",
+  "file": "quest/quest_ct99.png",
+  "where": "KaminoSideQuests HEAD_99 (сейчас field_automatic_clone.png)"
+ },
+ {
+  "id": "quest_meddroid",
+  "name": "Меддроид 2-1Б-7",
+  "file": "quest/quest_meddroid.png",
+  "where": "KaminoSideQuests HEAD_MEDDROID"
+ },
+ {
+  "id": "quest_agent_veil",
+  "name": "Агент Вейл (имперская разведка)",
+  "file": "quest/quest_agent_veil.png",
+  "where": "KaminoSideQuests HEAD_VEIL"
+ },
+ {
+  "id": "quest_razor",
+  "name": "Рейзор (сорванный клон)",
+  "file": "quest/quest_razor.png",
+  "where": "KaminoSideRuntime SKIN_RAZOR; mobs.yml razor_personal"
+ },
+ {
+  "id": "quest_space_cmd_kort",
+  "name": "Коммандер Корт (флот Республики)",
+  "file": "quest/quest_space_cmd_kort.png",
+  "where": "SpaceRuntime JEDI officerSkin"
+ },
+ {
+  "id": "quest_space_mech_ten",
+  "name": "Механик Тэн",
+  "file": "quest/quest_space_mech_ten.png",
+  "where": "SpaceRuntime JEDI mechSkin"
+ },
+ {
+  "id": "quest_space_pilot_ri",
+  "name": "Пилот Ри Вейд",
+  "file": "quest/quest_space_pilot_ri.png",
+  "where": "SpaceRuntime JEDI pilotSkin"
+ },
+ {
+  "id": "quest_space_comms_mara",
+  "name": "Связистка Мара",
+  "file": "quest/quest_space_comms_mara.png",
+  "where": "SpaceRuntime JEDI commsSkin"
+ },
+ {
+  "id": "quest_space_instr_blitz",
+  "name": "Инструктор Блиц",
+  "file": "quest/quest_space_instr_blitz.png",
+  "where": "SpaceRuntime JEDI instrSkin"
+ },
+ {
+  "id": "quest_space_moff_vekk",
+  "name": "Моф Ксандр Векк",
+  "file": "quest/quest_space_moff_vekk.png",
+  "where": "SpaceRuntime SITH officerSkin"
+ },
+ {
+  "id": "quest_space_mech_u9",
+  "name": "Механик-дроид Ю-9",
+  "file": "quest/quest_space_mech_u9.png",
+  "where": "SpaceRuntime SITH mechSkin"
+ },
+ {
+  "id": "quest_space_pilot_saira",
+  "name": "Пилот Сайра Кор",
+  "file": "quest/quest_space_pilot_saira.png",
+  "where": "SpaceRuntime SITH pilotSkin"
+ },
+ {
+  "id": "quest_space_comms_dell",
+  "name": "Связист Делл",
+  "file": "quest/quest_space_comms_dell.png",
+  "where": "SpaceRuntime SITH commsSkin"
+ },
+ {
+  "id": "quest_space_instr_reik",
+  "name": "Инструктор Рейк (теневой штурмовик)",
+  "file": "quest/quest_space_instr_reik.png",
+  "where": "SpaceRuntime SITH instrSkin"
+ },
+ {
+  "id": "mob_training_droid",
+  "name": "Учебный дроид",
+  "file": "mob/mob_training_droid.png",
+  "where": "mobs.yml training_droid_personal (model SKELETON)"
+ },
+ {
+  "id": "mob_b1_droid",
+  "name": "Боевой дроид B1",
+  "file": "mob/mob_b1_droid.png",
+  "where": "mobs.yml b1_droid_personal, clone_trooper (model SKELETON)"
+ },
+ {
+  "id": "mob_magnaguard",
+  "name": "IG-100 Магнастраж",
+  "file": "mob/mob_magnaguard.png",
+  "where": "mobs.yml magnaguard, magnaguard_personal"
+ },
+ {
+  "id": "mob_inquisitor_kassar",
+  "name": "Инквизитор Кассар",
+  "file": "mob/mob_inquisitor_kassar.png",
+  "where": "mobs.yml inquisitor_personal; SpaceRuntime JEDI bossName"
+ },
+ {
+  "id": "mob_republic_commando",
+  "name": "Республиканский коммандос",
+  "file": "mob/mob_republic_commando.png",
+  "where": "mobs.yml republic_commando_personal"
+ },
+ {
+  "id": "mob_jedi_orvin_kel",
+  "name": "Мастер-джедай Орвин Кел",
+  "file": "mob/mob_jedi_orvin_kel.png",
+  "where": "mobs.yml jedi_master_personal; SpaceRuntime SITH bossName"
+ },
+ {
+  "id": "mob_elite_guard",
+  "name": "Клон 104 батальона (страж)",
+  "file": "mob/mob_elite_guard.png",
+  "where": "mobs.yml elite_guard_personal, elite_*_clone"
+ },
+ {
+  "id": "mob_prototype_zero",
+  "name": "Прототип Ноль КК-0",
+  "file": "mob/mob_prototype_zero.png",
+  "where": "mobs.yml prototype_zero_personal"
+ },
+ {
+  "id": "mob_enslaved_clone",
+  "name": "Порабощённый клон",
+  "file": "mob/mob_enslaved_clone.png",
+  "where": "mobs.yml enslaved_academic, enslaved_clone_personal"
+ },
+ {
+  "id": "mob_tyranus_shadow",
+  "name": "Тень Тирануса",
+  "file": "mob/mob_tyranus_shadow.png",
+  "where": "mobs.yml tyranus_shadow_personal"
+ },
+ {
+  "id": "mob_royal_guard",
+  "name": "Алый гвардеец",
+  "file": "mob/mob_royal_guard.png",
+  "where": "mobs.yml sidious_royal_guard"
+ },
+ {
+  "id": "mob_shadow_guard",
+  "name": "Теневой гвардеец",
+  "file": "mob/mob_shadow_guard.png",
+  "where": "mobs.yml sidious_shadow_guard, imperal_shadow_guard; HEAD_VEIL (старый)"
+ },
+ {
+  "id": "mob_cad_bane_clone",
+  "name": "Двойник Кэд Бэйна",
+  "file": "mob/mob_cad_bane_clone.png",
+  "where": "mobs.yml cad_bane_clone"
+ },
+ {
+  "id": "mob_mandalorian",
+  "name": "Мандалорец Дозора Смерти",
+  "file": "mob/mob_mandalorian.png",
+  "where": "mobs.yml mandalorian"
+ },
+ {
+  "id": "mob_mandalorian_boss",
+  "name": "Глава Дозора Смерти",
+  "file": "mob/mob_mandalorian_boss.png",
+  "where": "mobs.yml mandalorian_boss"
+ },
+ {
+  "id": "mob_otrek",
+  "name": "Отрёкшийся",
+  "file": "mob/mob_otrek.png",
+  "where": "mobs.yml otrek"
+ },
+ {
+  "id": "mob_geonosian_resident",
+  "name": "Джеонозианский житель",
+  "file": "mob/mob_geonosian_resident.png",
+  "where": "mobs.yml geonosian_resident"
+ },
+ {
+  "id": "mob_geonosian_warrior",
+  "name": "Джеонозиец-воин",
+  "file": "mob/mob_geonosian_warrior.png",
+  "where": "mobs.yml geonosian_warrior, geonosian_warrior_personal"
+ },
+ {
+  "id": "mob_enslaved_miner",
+  "name": "Порабощённый шахтёр",
+  "file": "mob/mob_enslaved_miner.png",
+  "where": "mobs.yml enslaved_miner*, enslaved_runner*"
+ },
+ {
+  "id": "mob_enslaved_alpha",
+  "name": "Порабощённый альфа-паразитом",
+  "file": "mob/mob_enslaved_alpha.png",
+  "where": "mobs.yml enslaved_alfa, enslaved_old, enslaved_beta"
+ }
+]
